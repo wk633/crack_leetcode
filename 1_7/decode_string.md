@@ -11,3 +11,11 @@ Examples:
 s = "3[a]2[bc]", return "aaabcbc".
 s = "3[a2[c]]", return "accaccacc".
 s = "2[abc]3[cd]ef", return "abcabccdcdcdef".
+
+
+### isdigit()
+用于检测字符串是否只由数字构成
+
+发散一下：
+* isalpha()用于检测字符串是否只由字母组成
+* isalnum()用于检测是否只由数字和字母组成
