@@ -1,12 +1,18 @@
+# -*- coding:utf-8 -*-
+
+# 升级： 输出最短数组
 def numSquares(n):
-    if n<2:
+    if n < 2:
         return n
     i = 1
     lst = []
-    while i*i < n:
+    while i*i <= n:
         lst.append(i*i)
         i += 1
-    cnt = 0
-    while
-    print lst
+
+    rootsToCheck = {}
+    resultlst = []
+    
+
+
 numSquares(10)
