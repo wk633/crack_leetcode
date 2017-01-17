@@ -1,18 +1,26 @@
 # -*- coding:utf-8 -*-
 
-# 升级： 输出最短数组
 def numSquares(n):
-    if n < 2:
-        return n
     i = 1
-    lst = []
+    choiceList = []
     while i*i <= n:
-        lst.append(i*i)
+        choiceList.append(i*i)
         i += 1
+    layCount = 0
+    currentSet = {n}
+    while currentSet:
+        temp = set()
+        layCount += 1
+        for i in currentSet:
+            for j in choiceList:
+                if j > i:
+                    break
+                elif i == j:
+                    return layCount
+                else:
+                    temp.add(i-j)
+        currentSet = temp
 
-    rootsToCheck = {}
-    resultlst = []
-    
-
-
-numSquares(10)
+print numSquares(4)
+print numSquares(10)
+print numSquares(12)
