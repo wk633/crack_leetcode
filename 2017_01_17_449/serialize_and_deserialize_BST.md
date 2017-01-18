@@ -5,3 +5,9 @@ Design an algorithm to serialize and deserialize a binary search tree. There is 
 The encoded string should be as compact as possible.
 
 Note: Do not use class member/global/static variables to store states. Your serialize and deserialize algorithms should be stateless.
+
+
+### solution reference
+https://discuss.leetcode.com/topic/66318/deserialize-from-preorder-and-computed-inorder-reusing-old-solution
+
+https://discuss.leetcode.com/topic/66450/python-o-n-solution-easy-to-understand
