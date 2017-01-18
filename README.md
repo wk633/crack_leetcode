@@ -5,6 +5,13 @@
 ```bash
 node index.js -d dirname -f filename
 ```
+### how to use npm to create files
+```
+npm run create -- -d dirname -f filename
+```
+
+### reference
+https://www.zybuluo.com/yangfch3/note/249328#0-npm-run-npm-run-script
 
 ### 每天一题
 
