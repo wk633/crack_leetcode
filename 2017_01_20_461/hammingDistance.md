@@ -18,3 +18,14 @@ Explanation:
 
 The above arrows point to positions where the corresponding bits are different.
 ```
+
+### python bitwise operator
+&: and
+|: or
+^: XOR, if inputs are different, output is 1, otherwise, 0
+http://www.yiibai.com/python/python_basic_operators.html
+
+### number system conversion
+bin(dec): in binary
+oct(dec): in octal
+hex(dec): in hexadecimal
