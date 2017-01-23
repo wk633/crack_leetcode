@@ -10,7 +10,7 @@ var createFile = function(dir,name){
     if(err) throw err;
     console.log(name + ' is created')
   })
-}
+} 
 
 if(argv.d){
   // need create folder

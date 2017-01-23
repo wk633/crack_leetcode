@@ -1,19 +1,19 @@
 # crack_leetcode
 
-### index.js使用方法
-用于实现快速创建文件夹和md，py文件
+### index.js
+index.js is built to help create files and directory faster
 ```bash
 node index.js -d dirname -f filename
 ```
 ### how to use npm to create files
 ```
-npm run create -- -d dirname -f filename
+npm run c -- -d dirname -f filename
 ```
 
 ### reference
 https://www.zybuluo.com/yangfch3/note/249328#0-npm-run-npm-run-script
 
-### 每天一题
+### questions list
 
 1. 113: path sum II
 2. 394: decode string
