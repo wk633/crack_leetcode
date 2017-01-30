@@ -1,13 +1,15 @@
+# solution with extra space
 class Solution(object):
     def findDuplicates(self, nums):
         """
         :type nums: List[int]
         :rtype: List[int]
         """
+        dic = dict()
         rst = []
-        for num in nums:
-            if nums[abs(num)-1] < 0:
-                rst.append(abs(num))
+        for item in nums:
+            if item in dic:
+                rst.append(item)
             else:
-                nums[abs(num)-1] *= -1
+                dic[item] = 1
         return rst
