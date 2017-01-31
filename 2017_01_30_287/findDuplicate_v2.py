@@ -10,7 +10,8 @@ class Solution(object):
             slow = nums[slow]
             fast = nums[nums[fast]]
 
-        fast = 0
+        fast = nums[0]
+        slow = nums[slow]
 
         while slow != fast:
             slow = nums[slow]

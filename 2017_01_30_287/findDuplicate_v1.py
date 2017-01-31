@@ -4,11 +4,13 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        slow = nums[0]
-        fast = nums[nums[0]]
-        while slow!=fast:
+        slow = 0
+        fast = 0
+        while True:
             slow = nums[slow]
             fast = nums[nums[fast]]
+            if fast == slow:
+                break
 
         fast = 0
 
@@ -16,3 +18,4 @@ class Solution(object):
             slow = nums[slow]
             fast = nums[fast]
         return slow
+        
