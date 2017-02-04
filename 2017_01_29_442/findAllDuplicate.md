@@ -13,3 +13,6 @@ Output:
 
 ### solutions
 the key point is the a[i] range and only twice and once
+
+### review
+2017-02-04
