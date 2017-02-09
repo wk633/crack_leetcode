@@ -7,3 +7,6 @@ The longest consecutive elements sequence is [1, 2, 3, 4]. Return its length: 4.
 Your algorithm should run in O(n) complexity.
 
 Subscribe to see which companies asked this question.
+
+### review mark
+2017-02-08
