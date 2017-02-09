@@ -16,6 +16,7 @@ https://www.zybuluo.com/yangfch3/note/249328#0-npm-run-npm-run-script
 ### questions list
 
 #### linked list
-- 445 add two numbers 
+- 445 add two numbers
 - 148 Sort List
 - 147 Insertion Sort List
+- 328 odd Event Linked List
