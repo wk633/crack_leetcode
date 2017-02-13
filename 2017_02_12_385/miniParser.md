@@ -23,3 +23,7 @@ Return a NestedInteger object containing a nested list with 2 elements:
     i.  An integer containing value 456.
     ii. A nested list with one element:
          a. An integer containing value 789.
+
+
+### solution
+similar to \#394, use a stack to store objects
