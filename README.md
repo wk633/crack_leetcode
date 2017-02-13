@@ -20,3 +20,9 @@ https://www.zybuluo.com/yangfch3/note/249328#0-npm-run-npm-run-script
 - 148 Sort List
 - 147 Insertion Sort List
 - 328 odd Event Linked List
+- 19  Remove Nth Node From End of List
+- 61  rotate list
+- 25  Reverse Nodes in k-Group (hard)
+
+#### string
+- 385 mini parser
