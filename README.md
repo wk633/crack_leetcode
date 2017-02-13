@@ -23,6 +23,7 @@ https://www.zybuluo.com/yangfch3/note/249328#0-npm-run-npm-run-script
 - 19  Remove Nth Node From End of List
 - 61  rotate list
 - 25  Reverse Nodes in k-Group (hard)
+- 24  swap Nodes in Pairs
 
 #### string
 - 385 mini parser
