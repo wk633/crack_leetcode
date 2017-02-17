@@ -27,3 +27,8 @@ https://www.zybuluo.com/yangfch3/note/249328#0-npm-run-npm-run-script
 
 #### string
 - 385 mini parser
+- 67  add binary
+- 22  generate parentheses
+- 49  group anagrams
+- 242 valid anagram
+- 71  simplify path
