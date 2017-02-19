@@ -4,6 +4,8 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
+
+        # slide window
         # queue = []
         # rst = 0
         # for i in xrange(len(s)):
@@ -15,6 +17,7 @@ class Solution(object):
         #         queue = queue[idx+1::]
         #         queue.append(s[i])
         # return max(rst, len(queue))
+
 
         tmp = ""
         rst = 0
