@@ -5,6 +5,19 @@ class Solution(object):
         :rtype: int
         """
 
+        # two pointers method with hash
+        dic = {}
+        left = 0
+        maxlength = 0
+        for i in xrange(len(s)):
+            if s[i] in dic and left <= dic[s[i]]:
+                # left <= dic[s[i]] is to make sure the former character is within the substring
+                left = dic[s[i]]+1
+            else:
+                maxlength = max(maxlength, i-left+1)
+            dic[s[i]] = i
+        return maxlength
+
         # slide window
         # queue = []
         # rst = 0
