@@ -32,3 +32,6 @@ https://www.zybuluo.com/yangfch3/note/249328#0-npm-run-npm-run-script
 - 49  group anagrams
 - 242 valid anagram
 - 71  simplify path
+- 3   longest substring without repeating characters
+- 32  longest valid parentheses
+- 43  multiply strings
