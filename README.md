@@ -35,3 +35,4 @@ https://www.zybuluo.com/yangfch3/note/249328#0-npm-run-npm-run-script
 - 3   longest substring without repeating characters
 - 32  longest valid parentheses
 - 43  multiply strings
+- 14  longest common prefix
