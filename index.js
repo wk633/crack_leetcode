@@ -10,7 +10,7 @@ var createFile = function(dir,name){
     if(err) throw err;
     console.log(name + ' is created')
   })
-} 
+}
 
 if(argv.d){
   // need create folder
@@ -22,13 +22,13 @@ if(argv.d){
   }
 
   if(argv.f){
-    var filename1 = argv.f + '.md'
+    // var filename1 = argv.f + '.md'
     var filename2 = argv.f + '.py'
-    if(fs.existsSync(filename1)){
-      existWarning(filename1)
-    }else{
-      createFile(dirname, filename1)
-    }
+    // if(fs.existsSync(filename1)){
+    //   existWarning(filename1)
+    // }else{
+    //   createFile(dirname, filename1)
+    // }
     if(fs.existsSync(filename2)){
       existWarning(filename2)
     }else{
