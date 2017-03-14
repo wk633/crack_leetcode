@@ -40,3 +40,5 @@ https://www.zybuluo.com/yangfch3/note/249328#0-npm-run-npm-run-script
 
 ### hard questions list(to be solved)
 - 25 Reverse Nodes in k-Group
+- 214 Shortest Palindrome
+- 483 smallest good base
