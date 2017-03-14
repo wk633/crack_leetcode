@@ -36,3 +36,7 @@ https://www.zybuluo.com/yangfch3/note/249328#0-npm-run-npm-run-script
 - 32  longest valid parentheses
 - 43  multiply strings
 - 14  longest common prefix
+
+
+### hard questions list(to be solved)
+- 25 Reverse Nodes in k-Group
