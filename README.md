@@ -42,3 +42,7 @@ https://www.zybuluo.com/yangfch3/note/249328#0-npm-run-npm-run-script
 - 25 Reverse Nodes in k-Group
 - 214 Shortest Palindrome
 - 483 smallest good base
+
+### linked questions notes
+- 227. Basic Calculator II
+  - 150. Evaluate Reverse Polish Notation
