@@ -46,3 +46,8 @@ https://www.zybuluo.com/yangfch3/note/249328#0-npm-run-npm-run-script
 ### linked questions notes
 - 227. Basic Calculator II
   - 150. Evaluate Reverse Polish Notation
+
+- binary search
+  - 162. Find Peak Element
+  - 74. Search a 2D Matrix
+  - 153. Find Minimum in Rotated Sorted Array
