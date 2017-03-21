@@ -53,3 +53,7 @@ https://www.zybuluo.com/yangfch3/note/249328#0-npm-run-npm-run-script
   - 74. Search a 2D Matrix
   - 153. Find Minimum in Rotated Sorted Array
   - 154. Find Minimum in Rotated Sorted Array II
+
+- linked list Reverse
+  - 24. Swap Nodes in Pairs
+  - 25. Reverse Nodes in k-Group
