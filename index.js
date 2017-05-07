@@ -23,7 +23,8 @@ if(argv.d){
 
   if(argv.f){
     // var filename1 = argv.f + '.md'
-    var filename2 = argv.f + '.py'
+    // var filename2 = argv.f + '.py'
+    var filename2 = argv.f + '.java'
     // if(fs.existsSync(filename1)){
     //   existWarning(filename1)
     // }else{
